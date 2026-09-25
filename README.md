@@ -1,6 +1,6 @@
 Olá, sou o Vinicius
 
-- Estudante de Engenharia de Software na Uniinter
+- Estudante de Engenharia de Software na Uninter
 - Atualmente aprendendo **Java** e **Banco de Dados**
 - Também estudando Probabilidade e Estatística
 - Colaboro em projetos de desenvolvimento de jogos (Godot / C#) em equipe
